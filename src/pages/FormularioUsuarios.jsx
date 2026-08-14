@@ -77,7 +77,6 @@ export default function FormularioUsuarios() {
   return (
     <div className="min-h-screen w-full bg-[#F4F2FB] flex justify-center py-6 px-3 sm:py-10 sm:px-6">
       <div className="w-full max-w-6xl">
-        {/* Encabezado */}
         <header className="mb-6 sm:mb-8">
           <div className="flex items-center gap-3">
             <div className="h-11 w-11 sm:h-12 sm:w-12 rounded-xl bg-[#4338CA] flex items-center justify-center shrink-0">
